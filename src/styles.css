@@ -15,4 +15,11 @@
     .icon-40 {
         font-size: 40px;
     }
+
+    .icon-50 {
+        font-size: 50px;
+    }
+    .p-56per {
+        padding-bottom: 56.25%;
+    }
 }
